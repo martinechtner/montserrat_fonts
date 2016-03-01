@@ -1,4 +1,4 @@
-# Add a custom font (montserrat) to your Rails 4.x project
+# Add a custom font to your Rails 4.x app
 
 ---
 
